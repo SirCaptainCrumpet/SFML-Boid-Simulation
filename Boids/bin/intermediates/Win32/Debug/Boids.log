@@ -1,0 +1,8 @@
+﻿  Main.cpp
+C:\dev\CPP\Boids\Boids\Boids\src\Main.cpp(167,30): warning C4244:  'initializing': conversion from 'double' to 'float', possible loss of data
+C:\dev\CPP\Boids\Boids\Boids\src\Main.cpp(445,77): warning C4244:  'argument': conversion from '_Rep' to 'unsigned int', possible loss of data
+C:\dev\CPP\Boids\Boids\Boids\src\Main.cpp(445,77): warning C4244:         with
+C:\dev\CPP\Boids\Boids\Boids\src\Main.cpp(445,77): warning C4244:         [
+C:\dev\CPP\Boids\Boids\Boids\src\Main.cpp(445,77): warning C4244:             _Rep=std::chrono::system_clock::rep
+C:\dev\CPP\Boids\Boids\Boids\src\Main.cpp(445,77): warning C4244:         ]
+  Boids.vcxproj -> C:\dev\CPP\Boids\Boids\\bin\Win32\Debug\Boids.exe
